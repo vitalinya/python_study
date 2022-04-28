@@ -1,1 +1,3 @@
-# python_study_w3resource
+# Description
+
+Study of the Python language
