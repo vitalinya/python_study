@@ -1,6 +1,5 @@
 def isstring(string):
-	if string[0:1] == 'Is':
-		print(string)
+	if string[0:2] == 'Is':
 		return string
 	else:
 		return 'Is' + string
